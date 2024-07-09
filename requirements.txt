@@ -51,5 +51,5 @@ urllib3==1.25.8
 virtualenv==16.7.9
 wcwidth==0.1.7
 websocket-client==0.57.0
-zipp==0.6.0
+zipp==3.19.1
 python-dotenv==0.17.1
